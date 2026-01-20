@@ -34,7 +34,7 @@ To address the scalability and single-point-of-failure issues of the centralized
 
 * **Distributed Compute:** Each agent solves its own local QP, relying only on observations of immediate neighbors.
 * **Constraint Splitting:** Agents do not negotiate. Instead, each agent assumes responsibility for **50%** of the required safety maneuver. This cooperative assumption ensures global safety without explicit communication.
-* **Scalability:** The system scales linearly ($O(N)$), allowing for large-scale swarms without performance degradation.
+* **Scalability:** The system scales linearly ( $O(N)$ ), allowing for large-scale swarms without performance degradation.
 
 > **Visual Demo:**
 >
