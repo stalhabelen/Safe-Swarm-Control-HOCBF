@@ -23,7 +23,7 @@ In the initial iteration, the safety problem is formulated as a single, global o
 
 > **Visual Demo:**
 >
-> ![Centralized Demo](phase_1_centralized/centralized_double_int.gif)
+> ![Centralized Demo](Safe-Swarm-Control-HOCBF/phase_1_centralized/centralized_double_int.gif)
 >
 > *Centralized solver coordinating agents in a circle swap scenario.*
 
@@ -38,7 +38,7 @@ To address the scalability and single-point-of-failure issues of the centralized
 
 > **Visual Demo:**
 >
-> ![Decentralized Swarm Demo](phase_2_decentralized/decentralized_swarm.gif)
+> ![Decentralized Swarm Demo](Safe-Swarm-Control-HOCBF/phase_2_decentralized/decentralized_swarm.gif)
 >
 > *Decentralized agents navigating safely with local sensing only.*
 
