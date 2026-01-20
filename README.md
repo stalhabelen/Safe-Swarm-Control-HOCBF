@@ -119,5 +119,3 @@ This project relies on theoretical frameworks established in the following paper
 ---
 
 *This repository serves as a portfolio project demonstrating experience in Safety-Critical Control, Convex Optimization, and Multi-Agent Systems.*
-
-```
