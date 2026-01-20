@@ -19,7 +19,7 @@ The repository documents the engineering evolution of the system in two phases:
 In the initial iteration, the safety problem is formulated as a single, global optimization problem. A central computer possesses perfect knowledge of all agents' states and computes optimal control inputs simultaneously.
 
 * **Methodology:** A centralized QP modulates the output of a noisy, learning-based nominal policy to guarantee collision-free trajectories.
-* **Limitation:** The solver complexity grows cubicly ($O(N^3)$), making real-time computation impossible for large swarms ($N > 50$).
+* **Limitation:** The solver complexity grows cubicly ( $O(N^3)$ ), making real-time computation impossible for large swarms ($N > 50$).
 
 > **Visual Demo:**
 >
